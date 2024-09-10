@@ -1,4 +1,4 @@
-// Complete the following functions to make our program work!
+// Complete the following functions to make our program work
 
 /**
  * Converts the given Fahrenheit temperature `f` to Celsius.
